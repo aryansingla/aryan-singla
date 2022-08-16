@@ -1,10 +1,12 @@
 <h1 align="center">Hello Everyone 👋</h1>
 
-
+<div align="center">
+  <img src="https://ineedanime.com/wp-content/uploads/2021/09/kakashi-hatake-hello.gif" align="center" allowFullScreen>
+</div>
 
 I am Aryan. I like to code , travel , listening music and I have interest in Finance.
 
-- :computer: I am currently learning the fundamentals of software development.
+- :computer: I am learning MERN STACK and doing self growth by learning new things.
 - 👯 I’m looking to collaborate on projects related to web.
 - 📫 Contact me here: [contact](https://aryansingla.netlify.app/#c) or mail me [singlaaryan2001@gmail.com](mailto:singlaaryan2001@gmail.com)
 
