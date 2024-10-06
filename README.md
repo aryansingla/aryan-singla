@@ -6,8 +6,7 @@
 
 I am Aryan. I like to code , travel , listening music and I have interest in Finance.
 
-- :computer: I am learning MERN STACK and doing self growth by learning new things.
-- 👯 I’m looking to collaborate on projects related to web.
+- :computer: I am a Full Stack Developer.
 - 📫 Contact me here: [singlaaryan2001@gmail.com](mailto:singlaaryan2001@gmail.com)
 
 <hr>
